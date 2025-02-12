@@ -1,1 +1,2 @@
 # Visualizing-insights-from-the-microsoft-excel-sheet-using-pivot-tables
+This visualization displays the total quantity of products sold, broken down by both state and product category also the visualization shows the total sales revenue for each product, broken down by region. This breakdown enables a clear comparison of how products perform financially in different regions and focuses on identifying the top 5 customers based on their total sales, along with the product categories they are purchasing.
